@@ -97,8 +97,8 @@
     mayTransfer: True
     whitelist:
       tags:
-      - RCMCartridgePistolSU6
-    proto: RCMCartridgePistolSU6
+      - RCMCartridgePistol45
+    proto: RCMCartridgePistol45
     capacity: 18
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Ammunition/Magazines/su6.rsi
@@ -124,15 +124,15 @@
     mayTransfer: True
     whitelist:
       tags:
-      - RCMCartridgePistolSU6
-    proto: RCMCartridgePistolSU6
+      - RCMCartridgePistol45
+    proto: RCMCartridgePistol45
     capacity: 27
   - type: Sprite
-    sprite: _RMC14/Objects/Weapons/Guns/Ammunition/Magazines/su6.rsi
+    sprite: _RMC14/Objects/Weapons/Guns/Ammunition/Magazines/su6e.rsi
     layers:
-    - state: extended
+    - state: base
       map: ["enum.GunVisualLayers.Base"]
-    - state: extended-1
+    - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
 
 - type: Tag

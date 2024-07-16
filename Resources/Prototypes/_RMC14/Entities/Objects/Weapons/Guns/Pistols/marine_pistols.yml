@@ -244,6 +244,7 @@
   components:
   - type: Gun
     fireRate: 10
+  - type: GunIFF
   - type: Sprite
     sprite: _RMC14/Objects/Weapons/Guns/Pistols/su6.rsi
   - type: Clothing
@@ -257,7 +258,7 @@
         priority: 2
         whitelist:
           tags:
-          - CMMagazinePistolSU6
+          - RCMMagazinePistolSU6
   - type: AttachableHolder
     slots:
       rmc-aslot-barrel:
