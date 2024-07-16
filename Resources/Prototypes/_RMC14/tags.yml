@@ -11,6 +11,9 @@
   id: CMCartridgeRevolver44
 
 - type: Tag
+  id: RCMCartridgePistol45
+
+- type: Tag
   id: CMCartridgeRifle10x24mm
 
 - type: Tag

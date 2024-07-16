@@ -41,3 +41,17 @@
     - CMCartridgeRevolver44
   - type: CartridgeAmmo
     proto: CMBulletRevolver44
+
+# Smart Pistol
+
+- type: entity
+  id: RCMCartridgePistol45
+  name: cartridge (.45)
+  parent: CMCartridgePistolBase
+  components:
+  - type: Tag
+    tags:
+      - Cartridge
+      - RCMCartridgePistol45
+  - type: CartridgeAmmo
+    proto: RCMBulletPistol45

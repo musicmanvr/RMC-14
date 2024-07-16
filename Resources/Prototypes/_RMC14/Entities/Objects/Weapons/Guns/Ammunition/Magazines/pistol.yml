@@ -84,6 +84,57 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
 
+- type: entity
+  parent: CMBaseMagazinePistol
+  id: RCMMagazinePistolSU6
+  name: SU-6 magazine (.45)
+  components:
+  - type: Tag
+    tags:
+    - CMMagazinePistol
+    - RCMMagazinePistolSU6
+  - type: BallisticAmmoProvider
+    mayTransfer: True
+    whitelist:
+      tags:
+      - RCMCartridgePistolSU6
+    proto: RCMCartridgePistolSU6
+    capacity: 18
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/Guns/Ammunition/Magazines/su6.rsi
+    layers:
+    - state: base
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-1
+      map: ["enum.GunVisualLayers.Mag"]
+
+- type: Tag
+  id: RCMMagazinePistolSU6Ext
+
+- type: entity
+  parent: RCMBaseMagazinePistolSU6
+  id: RCMMagazinePistolSU6Ext
+  name: SU-6 extended magazine (.45)
+  components:
+  - type: Tag
+    tags:
+    - CMMagazinePistol
+    - RCMMagazinePistolSU6Ext
+  - type: BallisticAmmoProvider
+    mayTransfer: True
+    whitelist:
+      tags:
+      - RCMCartridgePistolSU6
+    proto: RCMCartridgePistolSU6
+    capacity: 27
+  - type: Sprite
+    sprite: _RMC14/Objects/Weapons/Guns/Ammunition/Magazines/su6.rsi
+    layers:
+    - state: extended
+      map: ["enum.GunVisualLayers.Base"]
+    - state: extended-1
+      map: ["enum.GunVisualLayers.Mag"]
+
 - type: Tag
   id: CMMagazinePistol
 
@@ -95,3 +146,6 @@
 
 - type: Tag
   id: CMMagazinePistolMK80
+
+- type: Tag
+  id: RCMMagazinePistolSU6
