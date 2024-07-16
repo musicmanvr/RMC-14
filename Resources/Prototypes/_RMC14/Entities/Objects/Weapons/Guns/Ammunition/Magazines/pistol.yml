@@ -112,7 +112,7 @@
   id: RCMMagazinePistolSU6Ext
 
 - type: entity
-  parent: RCMBaseMagazinePistolSU6
+  parent: RCMMagazinePistolSU6
   id: RCMMagazinePistolSU6Ext
   name: SU-6 extended magazine (.45)
   components:
