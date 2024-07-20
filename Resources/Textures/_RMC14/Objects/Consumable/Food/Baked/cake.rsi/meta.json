@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "cheesecake"
+    },
+    {
+      "name": "plaincake"
+    },
+    {
+      "name": "carrotcake"
+    },
+    {
+      "name": "applecake"
+    },
+    {
+      "name": "chocolatecake"
+    },
+    {
+      "name": "limecake"
+    },
+    {
+      "name": "orangecake"
+    },
+    {
+      "name": "lemoncake"
+    },
+    {
+      "name": "braincake"
+    },
+    {
+      "name": "cheesecake_slice"
+    },
+    {
+      "name": "plaincake_slice"
+    },
+    {
+      "name": "carrotcake_slice"
+    },
+    {
+      "name": "applecakeslice"
+    },
+    {
+      "name": "limecake_slice"
+    },
+    {
+      "name": "orangecake_slice"
+    },
+    {
+      "name": "lemoncake_slice"
+    },
+    {
+      "name": "pumpkinpieslice"
+    },
+    {
+      "name": "braincakeslice"
+    }
+  ]
+}

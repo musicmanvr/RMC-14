@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "hamburger"
+    },
+    {
+      "name": "xburger"
+    },
+    {
+      "name": "brainburger"
+    },
+    {
+      "name": "clownburger"
+    },
+    {
+      "name": "mimeburger"
+    },
+    {
+      "name": "jellyburger"
+    },
+    {
+      "name": "roburger"
+    },
+    {
+      "name": "ghostburger"
+    },
+    {
+      "name": "superbiteburger"
+    },
+    {
+      "name": "bigbiteburger"
+    },
+    {
+      "name": "spellburger"
+    },
+    {
+      "name": "tofuburger"
+    },
+    {
+      "name": "fishburger"
+    },
+    {
+      "name": "cheeseburger"
+    },
+    {
+      "name": "hburger2"
+    },
+    {
+      "name": "taco"
+    },
+    {
+      "name": "open-hotdog"
+    },
+    {
+      "name": "toastedsandwich"
+    },
+    {
+      "name": "sandwich"
+    }
+  ]
+}

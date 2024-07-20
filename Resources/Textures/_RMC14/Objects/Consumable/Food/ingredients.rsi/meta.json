@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "dough"
+    },
+    {
+      "name": "flat dough"
+    },
+    {
+      "name": "doughslice"
+    },
+    {
+      "name": "rawsticks"
+    },
+    {
+      "name": "chocolatebar"
+    },
+    {
+      "name": "cocoa"
+    },
+    {
+      "name": "spagetti"
+    },
+    {
+      "name": "soydope"
+    },
+    {
+      "name": "tofu"
+    },
+    {
+      "name": "cheesewedge"
+    },
+    {
+      "name": "cheesewheel"
+    },
+    {
+      "name": "oliveoil"
+    },
+    {
+      "name": "flour"
+    },
+    {
+      "name": "sugar"
+    },
+    {
+      "name": "rice"
+    },
+    {
+      "name": "enzyme"
+    },
+    {
+      "name": "bun"
+    },
+    {
+      "name": "flatbread"
+    },
+    {
+      "name": "milk"
+    },
+    {
+      "name": "soymilk"
+    },
+    {
+      "name": "eggbox"
+    },
+    {
+      "name": "eggbox0"
+    },
+    {
+      "name": "eggbox1"
+    },
+    {
+      "name": "eggbox2"
+    },
+    {
+      "name": "eggbox3"
+    },
+    {
+      "name": "eggbox4"
+    },
+    {
+      "name": "eggbox5"
+    },
+    {
+      "name": "eggbox6"
+    },
+    {
+      "name": "eggbox7"
+    },
+    {
+      "name": "eggbox8"
+    },
+    {
+      "name": "eggbox9"
+    },
+    {
+      "name": "eggbox10"
+    },
+    {
+      "name": "eggbox11"
+    },
+    {
+      "name": "eggbox12"
+    }
+  ]
+}

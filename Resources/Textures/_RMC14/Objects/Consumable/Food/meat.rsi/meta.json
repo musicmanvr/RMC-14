@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "rawmeatball"
+    },
+    {
+      "name": "rawcutlet"
+    },
+    {
+      "name": "cutlet"
+    },
+    {
+      "name": "sausage"
+    },
+    {
+      "name": "meatball"
+    },
+    {
+      "name": "fishfillet"
+    },
+    {
+      "name": "meat"
+    },
+    {
+      "name": "rottenmeat"
+    },
+    {
+      "name": "xenomeat"
+    },
+    {
+      "name": "meatstake"
+    },
+    {
+      "name": "badrecipe"
+    },
+    {
+      "name": "bacon"
+    },
+    {
+      "name": "bearmeat"
+    },
+    {
+      "name": "synthmeat"
+    },
+    {
+      "name": "tomatomeat"
+    },
+    {
+      "name": "hugemushroomslice"
+    },
+    {
+      "name": "boiledrorocore"
+    },
+    {
+      "name": "sausage"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": null,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "vegetablepizzaslice"
+    },
+    {
+      "name": "pizzamargherita"
+    },
+    {
+      "name": "pizzamargherita_old"
+    },
+    {
+      "name": "pizzamargheritaslice"
+    },
+    {
+      "name": "meatpizza"
+    },
+    {
+      "name": "meatpizzaslice"
+    },
+    {
+      "name": "mushroompizza"
+    },
+    {
+      "name": "mushroompizzaslice"
+    },
+    {
+      "name": "vegetablepizza"
+    },
+    {
+      "name": "vegetablepizzaslice"
+    }
+  ]
+}
